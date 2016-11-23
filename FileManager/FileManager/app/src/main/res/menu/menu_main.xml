@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kaneki.filemanager.MainActivity"
+    >
+    <item android:id="@+id/grid"
+        android:title="@string/gridViewMode"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/list"
+        android:title="@string/listViewMode"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

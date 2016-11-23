@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="gridViewMode">GridView</string>
+    <string name="listViewMode">ListView</string>
+    <string name="delete">delete</string>
+    <string name="action_toolbar">action_toolbar</string>
+</resources>
